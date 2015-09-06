@@ -5,6 +5,7 @@
 //  Created by Krzychu on 12.07.2015.
 //  Copyright (c) 2015 Krzychu. All rights reserved.
 //
+// Developer #1 added his comment
 
 #import <UIKit/UIKit.h>
 
