@@ -14,7 +14,7 @@
 @interface MasterViewController : UITableViewController
 
 @property (strong, nonatomic) DetailViewController *detailViewController;
-
+@property (assign, readwrite) NSUInteger counter;
 
 @end
 
