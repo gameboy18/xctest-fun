@@ -6,6 +6,7 @@
 //  Copyright (c) 2015 Krzychu. All rights reserved.
 //
 // Developer #1 added his comment
+// Changes by #2 developer
 
 #import <UIKit/UIKit.h>
 
@@ -15,6 +16,7 @@
 
 @property (strong, nonatomic) DetailViewController *detailViewController;
 @property (assign, readwrite) NSUInteger counter;
+@property (strong, nonatomic) NSString *name;
 
 @end
 
